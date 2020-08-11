@@ -18,8 +18,9 @@ public class hellojava {
 		 여러줄
 		  주석
 
-		 int x
+		  x
 		 */
+	
  }
 	
-}
+} 
